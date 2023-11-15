@@ -15,3 +15,4 @@ keyed_groups:
   default_value: unknown
 - key: location | lower
   default_value: unknown
+  prefix: location
